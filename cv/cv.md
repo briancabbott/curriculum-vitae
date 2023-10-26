@@ -79,20 +79,20 @@ Software Engineer
 ## Conceptualized and Proposed extension to the code generation scripts to include User Interface code as well. This design called for an XML declarative tag-set that would sit beside and extend the ASN.1 MIB syntax. The ASN.1 and XML document together would generate a completed, compile-able set of Java code representing the EMS product in its entirety.
 
 
-1999 – 2000	                        Webiness, Inc.	               Spokane, WA
-Web Developer
-# Designed and Developed dynamic, ASP based web front-ends using HTML, CSS, and JavaScript. Throughout the development process, I worked directly with the client in order to set their expectations and ensure satisfaction.
-# Designed and Developed ASP/MS Access based backend systems. Allowing for dynamic creation of content on the front-end. This was done using a combination of MS Access, SQL Server, and ASP 3.0 executing on the Microsoft IIS Platform.
-# Administered both Linux and Windows NT server systems.
+# 1999 – 2000	                        Webiness, Inc.	               Spokane, WA
+# Web Developer
+## Designed and Developed dynamic, ASP based web front-ends using HTML, CSS, and JavaScript. Throughout the development process, I worked directly with the client in order to set their expectations and ensure satisfaction.
+## Designed and Developed ASP/MS Access based backend systems. Allowing for dynamic creation of content on the front-end. This was done using a combination of MS Access, SQL Server, and ASP 3.0 executing on the Microsoft IIS Platform.
+## Administered both Linux and Windows NT server systems.
 
 
-CONCURRENT PROJECTS
+# CONCURRENT PROJECTS
 
-EDUCATION
+# EDUCATION
 
-LANGUAGES
-German
-Chinese
-Korean
-Japanese
+# LANGUAGES
+## German
+## Chinese
+## Korean
+## Japanese
 
